@@ -1,1 +1,1 @@
-# ya.praktikum-projects
+# Проекты специализации Data Science от Яндекс Практикума
