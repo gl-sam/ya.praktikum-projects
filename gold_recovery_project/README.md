@@ -14,7 +14,6 @@
 
 ## Используемые библиотеки
 
-*Python* <br>
 *Pandas* <br>
 *Matplotlib* <br>
 *NumPy* <br>
